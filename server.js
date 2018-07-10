@@ -2,7 +2,7 @@
 const express = require('express');
 const app = express();
 
-// run `npm install` to install dependencies in package.json
+// run `npm install` to install dependencies in package.json //// Done
 
 // * Your mission is to complete the app
 // * The app will need routes for index and show
@@ -14,8 +14,8 @@ const app = express();
 
 // NOTES:
 // ejs has not been installed
-// views folder has not been created
-// views/missions folder has not been created
+// views folder has not been created            //// Done
+// views/missions folder has not been created   //// Done
 
 // PORT
 const port = 3000;
